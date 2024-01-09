@@ -15,7 +15,7 @@ Google dorks can also be used to footprint VPN's to find login pages or hardcode
 
 For example:
 ```
-<inurl:/sslvpn/Login/Login>
+inurl:/sslvpn/Login/
 ```
 
 Google dorking is a great method to perform passive recon as all information is provided publically through google. However, it is important to not exploit any vulnerabilities but rather report leaked infomrmation to the affected party.
