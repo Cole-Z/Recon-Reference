@@ -20,7 +20,7 @@ inurl:/sslvpn/Login/
 
 Google dorking is a great method to perform passive recon as all information is provided publically through google. However, it is important to not exploit any vulnerabilities but rather report leaked infomrmation to the affected party.
 
-## Footprinting and Recon Through Social Sites
+## Footprinting and Recon Through Web/Social Sites
 
 ### 2.) [theHarvester](https://www.edge-security.com/software.html)
 
