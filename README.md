@@ -16,8 +16,18 @@ For example: <inurl:/sslvpn/Login/Login>
 
 Google dorking is a great method to perform passive recon as all information is provided publically through google. However, it is important to not exploit any vulnerabilities but rather report leaked infomrmation to the affected party.
 
-### 2.) Footprinting and Recon Through Social Sites
+## Footprinting and Recon Through Social Sites
 
+### 2.) [theHarvester](https://www.edge-security.com/software.html)https://www.edge-security.com/software.html
+
+theHarvester, is a an open-source info gathering tool to survey the landscape of a target domain. The tool will look for and fetch employee names, titles and more. The tool can also be used to collect emails that that attackers use to perform brute force attacks or social engineering attempts. 
+
+usage:
+```
+theharvester -d microsoft.com -l 200 -b linkedin
+```
+
+### 3.) 
 
 
 
