@@ -8,23 +8,27 @@ Often times the first step for collecting information is using search engines li
 ### 1.) [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 Researchers can utilize the GHDB(google hacking database) to narrow down or filter searches to find juicy information through a google search. The database also comed with many default templated searchs called 'google dorks' to help perform searches. 
 
-For example: <intext:user inurl:php/admin> can return web pages containing the parameters. 
+Usage: 
+```<intext:user inurl:php/admin> can return web pages containing the parameters.```
 
 Google dorks can also be used to footprint VPN's to find login pages or hardcoded credentials. 
 
-For example: <inurl:/sslvpn/Login/Login>
+For example:
+```
+<inurl:/sslvpn/Login/Login>
+```
 
 Google dorking is a great method to perform passive recon as all information is provided publically through google. However, it is important to not exploit any vulnerabilities but rather report leaked infomrmation to the affected party.
 
 ## Footprinting and Recon Through Social Sites
 
-### 2.) [theHarvester](https://www.edge-security.com/software.html)https://www.edge-security.com/software.html
+### 2.) [theHarvester](https://www.edge-security.com/software.html)
 
 theHarvester, is a an open-source info gathering tool to survey the landscape of a target domain. The tool will look for and fetch employee names, titles and more. The tool can also be used to collect emails that that attackers use to perform brute force attacks or social engineering attempts. 
 
 usage:
 ```
-theharvester -d microsoft.com -l 200 -b linkedin
+theharvester -d google.com -l 200 -b linkedin
 ```
 
 ### 3.) 
