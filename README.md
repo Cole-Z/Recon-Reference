@@ -8,9 +8,17 @@ Often times the first step for collecting information is using search engines li
 ### 1.) [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 Researchers can utilize the GHDB(google hacking database) to narrow down or filter searches to find juicy information through a google search. The database also comed with many default templated searchs called 'google dorks' to help perform searches. 
 
-For example: <intext:user inurl: php/admin> can return web pages containing the parameters. 
+For example: <intext:user inurl:php/admin> can return web pages containing the parameters. 
 
-### 2.) 
+Google dorks can also be used to footprint VPN's to find login pages or hardcoded credentials. 
+
+For example: <inurl:/sslvpn/Login/Login>
+
+Google dorking is a great method to perform passive recon as all information is provided publically through google. However, it is important to not exploit any vulnerabilities but rather report leaked infomrmation to the affected party.
+
+### 2.) Footprinting and Recon Through Social Sites
+
+
 
 
 
