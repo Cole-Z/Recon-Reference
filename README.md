@@ -35,7 +35,7 @@ theharvester -d google.com -l 200 -b linkedin
 
 Sherlock is a tool to collect information from a Social username. This tool is geared more towards an individual and you should not perform recon on people you do not have permission from.
 
-### 4.) [BillCipher](https://github.com/bahatiphill/BillCipher)https://github.com/bahatiphill/BillCipher
+### 4.) [BillCipher](https://github.com/bahatiphill/BillCipher)
 
 BillCipher is tool to gather info from website of public IP address. The tool comes with over 20 different options and also incorporates some other tools for sub domain enumeration and footprinting. This tool is great as it it has more functionaloty than just recon. 
 
