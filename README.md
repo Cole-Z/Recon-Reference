@@ -18,7 +18,7 @@ For example:
 inurl:/sslvpn/Login/
 ```
 
-Google dorking is a great method to perform passive recon as all information is provided publically through google. However, it is important to not exploit any vulnerabilities but rather report leaked infomrmation to the affected party.
+Google dorking is a great method to perform passive recon as all information is provided publicly through google. However, it is important to not exploit any vulnerabilities but rather report leaked infomrmation to the affected party.
 
 ## Footprinting and Recon Through Web/Social Sites
 
