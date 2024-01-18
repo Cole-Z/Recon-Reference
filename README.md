@@ -28,7 +28,7 @@ theHarvester, is a an open-source info gathering tool to survey the landscape of
 
 usage:
 ```
-theharvester -d google.com -l 200 -b linkedin
+theHarvester -d google.com -l 200 -b linkedin
 ```
 
 ### 3.) [Sherlock ](https://github.com/sherlock-project/sherlock)
